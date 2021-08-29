@@ -1,4 +1,4 @@
-## Hi there i'm Maicon de Menezes aka <a href = "https://www.instagram.com/soulmaicon">SoulmaicoN</a>
+## Hi there i'm Maicon de Menezes aka <a href = "https://www.instagram.com/soulmaicon">SoulmaicoN</a> 
 
 #### Technical Support Analist at <a href = "https://www.netcenter.com.br/"> Netcenter </a> working in 10ª CRE _(Regional Education Coordination)_ of <a href = "https://www.rio.rj.gov.br/web/sme"> SME _(Municipal Secretary of Education)_</a>, Rio de Janeiro, RJ, Brazil _(yes, that samba/bossa nova/funk/some explict violence mood )_
 - ⚡ Fun fact: I already had a <a href = "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"> Tim 'F*cking King of Brazilian Soul' Maia 
@@ -31,7 +31,7 @@ cover band!
 ##
 
 ### Now if really wanna know whaty i'm doing here...
-<div>  
+<div>   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maicondmenezes&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maicondmenezes&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
@@ -40,11 +40,9 @@ cover band!
 
 ### Hey man u still here ?!? R U an stlaker or something like that ?!? Ok here is some more PERSONAL information about my coding life..
 
-```python
-Python         9 hrs 34 mins       ███████░░░     76.48%
-Markdown       1 hr 37 mins        █░░░░░░░░░     12.92%
-YAML           38 mins             ░░░░░░░░░░     5.07%
-```
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ##
 
