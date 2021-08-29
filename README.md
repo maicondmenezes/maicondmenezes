@@ -2,8 +2,7 @@
 
 #### Technical Support Analist at <a href = "https://www.netcenter.com.br/"> Netcenter </a> working in 10ª CRE _(Regional Education Coordination)_ of <a href = "https://www.rio.rj.gov.br/web/sme"> SME _(Municipal Secretary of Education)_</a>, Rio de Janeiro, RJ, Brazil _(yes, that samba/bossa nova/funk/some explict violence mood )_
 - ⚡ Fun fact: I already had a <a href = "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"> Tim 'F*cking King of Brazilian Soul' Maia 
-</a>
-cover band!
+</a> cover band!
 
 ##
 
