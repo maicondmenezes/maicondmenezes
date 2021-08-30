@@ -40,7 +40,7 @@
 ### Hey man u still here ?!? R U an stlaker or something like that ?!? Ok here is some more PERSONAL information about my coding life..
 
 <!--START_SECTION:waka-->
-```python
+```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
