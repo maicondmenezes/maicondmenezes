@@ -41,9 +41,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python       10 mins         ███████████▒░░░░░░░░░░░░░   45.05 % 
-HTML         10 mins         ██████████▓░░░░░░░░░░░░░░   42.04 % 
-Git Config   3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
