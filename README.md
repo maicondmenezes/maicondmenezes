@@ -41,11 +41,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Gettext Catalog   6 hrs           ███████▒░░░░░░░░░░░░░░░░░   28.75 % 
-Python            4 hrs 18 mins   █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
-XML               4 hrs 18 mins   █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
-JavaScript        3 hrs 29 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.70 % 
-YAML              1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+XML               4 hrs 33 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.36 % 
+Python            3 hrs 59 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.13 % 
+JavaScript        3 hrs 23 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.88 % 
+Gettext Catalog   2 hrs 50 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+YAML              1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
 ```
 <!--END_SECTION:waka-->
 
