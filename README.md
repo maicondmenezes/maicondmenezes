@@ -41,8 +41,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python   46 mins         ████████████████▒░░░░░░░░   65.24 % 
-XML      24 mins         ████████▓░░░░░░░░░░░░░░░░   34.76 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
