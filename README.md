@@ -40,13 +40,15 @@
 ### Hey man u still here ?!? R U an stlaker or something like that ?!? Ok here is some more PERSONAL information about my coding life..
 
 <!--START_SECTION:waka-->
+
 ```text
-Python       1 hr 52 mins    ████████████░░░░░░░░░░░░░   47.42 % 
-Markdown     1 hr 12 mins    ███████▓░░░░░░░░░░░░░░░░░   30.38 % 
-JavaScript   25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-Bash         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-Git Config   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Markdown     54 mins         ███████████▓░░░░░░░░░░░░░   46.95 %
+JavaScript   23 mins         █████░░░░░░░░░░░░░░░░░░░░   20.18 %
+Python       14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.85 %
+Bash         8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
+Other        6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
 ```
+
 <!--END_SECTION:waka-->
 
 
