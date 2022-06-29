@@ -42,8 +42,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python   4 hrs 2 mins    ████████████████████▓░░░░   83.11 %
-Other    31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
+Python   3 hrs 15 mins   ██████████████████████░░░   87.78 %
+Other    17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
 ```
 
 <!--END_SECTION:waka-->
