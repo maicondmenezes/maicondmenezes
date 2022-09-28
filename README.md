@@ -42,8 +42,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-CSV        2 hrs 49 mins   ███████▓░░░░░░░░░░░░░░░░░   30.27 %
-Other      2 hrs 16 mins   ██████░░░░░░░░░░░░░░░░░░░   24.35 %
+CSV        3 hrs 5 mins    █████████▓░░░░░░░░░░░░░░░   38.52 %
+Other      2 hrs 13 mins   ███████░░░░░░░░░░░░░░░░░░   27.79 %
 ```
 
 <!--END_SECTION:waka-->
