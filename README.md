@@ -42,8 +42,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-SQL        1 hr 58 mins    █████████░░░░░░░░░░░░░░░░   35.68 %
-Other      1 hr 45 mins    ████████░░░░░░░░░░░░░░░░░   31.69 %
+Other      2 hrs 6 mins    ████████▓░░░░░░░░░░░░░░░░   34.60 %
 ```
 
 <!--END_SECTION:waka-->
