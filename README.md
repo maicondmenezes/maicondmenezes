@@ -42,8 +42,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-XML          1 hr 7 mins     ████████▒░░░░░░░░░░░░░░░░   33.27 %
-Other        1 hr 5 mins     ████████░░░░░░░░░░░░░░░░░   32.11 %
+Other        1 hr            █████████▓░░░░░░░░░░░░░░░   38.36 %
 ```
 
 <!--END_SECTION:waka-->
