@@ -41,11 +41,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python              7 hrs 27 mins   ███████████████▓░░░░░░░░░   62.42 %
-Other               2 hrs 21 mins   █████░░░░░░░░░░░░░░░░░░░░   19.82 %
-Markdown            1 hr 24 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.87 %
-TOML                15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-Debian Sourcelist   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Python              3 hrs 38 mins   ███████████▒░░░░░░░░░░░░░   45.77 %
+Other               2 hrs 12 mins   ███████░░░░░░░░░░░░░░░░░░   27.65 %
+Markdown            1 hr 24 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.76 %
+TOML                15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+Debian Sourcelist   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
 ```
 
 <!--END_SECTION:waka-->
