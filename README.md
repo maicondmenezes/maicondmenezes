@@ -41,11 +41,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python            6 hrs 42 mins   ████████████▒░░░░░░░░░░░░   49.83 %
-TOML              2 hrs 29 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.54 %
-Markdown          1 hr 33 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
-Makefile          54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
-Protocol Buffer   29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+Python            9 hrs 20 mins   █████████████▒░░░░░░░░░░░   53.90 %
+TOML              2 hrs 23 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.79 %
+Markdown          1 hr 33 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
+Protocol Buffer   1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+Makefile          55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
 ```
 
 <!--END_SECTION:waka-->
