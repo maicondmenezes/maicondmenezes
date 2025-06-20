@@ -41,11 +41,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python            13 hrs 27 mins  █████████████████████▓░░░   86.95 %
-Other             1 hr 19 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
-Makefile          29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-Markdown          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-Java Properties   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Python            10 hrs 53 mins  █████████████████████▓░░░   86.20 %
+Other             1 hr 22 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
+Makefile          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+Markdown          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Java Properties   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
