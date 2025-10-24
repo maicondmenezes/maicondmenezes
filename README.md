@@ -41,11 +41,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     6 hrs 30 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.11 %
-TypeScript   5 hrs 16 mins   █████░░░░░░░░░░░░░░░░░░░░   20.38 %
-YAML         4 hrs 5 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.81 %
-Mermaid      3 hrs 46 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.54 %
-Bash         2 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+Markdown     8 hrs 45 mins   ███████░░░░░░░░░░░░░░░░░░   27.41 %
+TypeScript   6 hrs 50 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.41 %
+YAML         4 hrs 59 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.63 %
+Bash         3 hrs 43 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
+Mermaid      2 hrs 21 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
 ```
 
 <!--END_SECTION:waka-->
